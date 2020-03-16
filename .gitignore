@@ -1,0 +1,11 @@
+*nc
+*png
+*jpeg
+*pdf
+*ld_notebooks
+*ld_versions
+.ipynb_checkpoints
+gitignore
+*~
+*#
+*pyc
